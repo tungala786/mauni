@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Maunika" >
+<test name="Maunika">
+
+
+<classes>
+
+  <class name="myPack.Maunika"/>
+
+</classes>
+
+</test>
+
+</suite>

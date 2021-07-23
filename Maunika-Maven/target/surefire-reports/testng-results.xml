@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Maunika" duration-ms="5550" started-at="2021-07-23T04:31:38Z" finished-at="2021-07-23T04:31:43Z">
+    <groups>
+    </groups>
+    <test name="Maunika" duration-ms="5550" started-at="2021-07-23T04:31:38Z" finished-at="2021-07-23T04:31:43Z">
+      <class name="myPack.Maunika">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Maunika@1cd072a9]" name="addEmp" duration-ms="11" started-at="2021-07-23T10:01:38Z" finished-at="2021-07-23T10:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Maunika@1cd072a9]" name="deleteEmp" duration-ms="0" started-at="2021-07-23T10:01:38Z" finished-at="2021-07-23T10:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Maunika@1cd072a9]" name="editEmp" duration-ms="0" started-at="2021-07-23T10:01:38Z" finished-at="2021-07-23T10:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Maunika@1cd072a9]" name="verifyLogin" duration-ms="5518" started-at="2021-07-23T10:01:38Z" finished-at="2021-07-23T10:01:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Maunika -->
+    </test> <!-- Maunika -->
+  </suite> <!-- Maunika -->
+</testng-results>

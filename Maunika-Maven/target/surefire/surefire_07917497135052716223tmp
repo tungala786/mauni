@@ -1,0 +1,6 @@
+#surefire_0
+#Fri Jul 23 10:03:48 IST 2021
+user.dir=E\:\\Maunika\\Maunika-Maven
+SuiteXmlFile=maunika.xml
+localRepository=C\:\\Windows\\system32\\config\\systemprofile\\.m2\\repository
+basedir=E\:\\Maunika\\Maunika-Maven
